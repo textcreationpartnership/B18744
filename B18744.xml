@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Remonstrance of the right Honovrable Iames Earle of Castlehaven and Lord Audley concerning his imprisonment in Dublin and escape from thence.</title>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18744</idno><idno type="EEBO-CITATION">12152424</idno>
+  <idno type="VID">197153</idno>
+  <idno type="EEBO-PROQUEST">2240959935</idno>
+  
+            <idno type="STC">Wing C1236</idno>
+            <idno type="OCLC">12152424</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197153)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E95, no 14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Remonstrance of the right Honovrable Iames Earle of Castlehaven and Lord Audley concerning his imprisonment in Dublin and escape from thence.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Reviewed, corrected, and augmented.</edition>
+               </editionStmt>
+               <extent>[2], 5-23 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Thomas Bourke,</publisher>
+                  <pubPlace>Printed at VVaterford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Castlehaven, James Touchet, --  Earl of, 1617?-1684.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197153:1"/>
+            <pb facs="tcp:197153:1"/>
+            <p>A REMONSTRANCE OF THE RIGHT HONOVRABLE IAMES EARLE OF CASTLEHAVEN and Lord Audley <hi>Concerning his Imprisonment in</hi> Dublin, <hi>and escape from thence.</hi>
+            </p>
+            <q>Laqueus contritus est &amp; nos liberati sumus.</q>
+            <p>Reviewed, corrected, and augmented.</p>
+            <figure>
+               <p>SAGITTAE TVAE ACVTAE IN CORDA INIMI CORVM REGIS.</p>
+               <figDesc>depiction of heart with arrows</figDesc>
+            </figure>
+            <p>Printed at <hi>VVaterford</hi> by <hi>Thomas Bourke,</hi> 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:197153:2"/>
+            <pb n="5" facs="tcp:197153:2"/>
+            <head>TO THE KINGS MOST Excellent Majestie.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>IR,</salute>
+            </opener>
+            <p>The little hopes I have, that this short Remonstrance, or any Petition of mine, sent or to be sent, shall arrive to the Honour of your view, makes me carefull onely to set downe Truth, and little looke at a Style befitting the Adresse. Your Majestie by the following discourse may perceive (if any Copy of these shall be so happy as to fall into your hands) the sufferings of many your faithfull subjects of <hi>Ireland,</hi> though of all none goes so neere me, and I beleeve the rest, as that by the Iustices and some of the State here, our actions are daily misrepresented to your Majestie, and through theirs and the Art of their friends in
+<pb n="6" facs="tcp:197153:3"/>
+               <hi>England</hi> all meanes are deprived us, either by Petiti<g ref="char:EOLhyphen"/>on, or Verball Relation, to vindicate our selves and charge them. Royall Sir, were I conscious to my selfe, that I did merit the Title too frequently, I feare, given mee, I would not presume thus boldly to subscribe my selfe, what I am and ever will be,</p>
+            <closer>
+               <salute>
+                  <hi>SIR,</hi>
+               </salute>
+               <signed>Your Majesties most loyall and faithfull subject CASTLEHAUEN AUDLEY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:197153:3"/>
+            <head>A REMONSTRANCE OF THE Right Honourable IAMES Earle of Castlehaven and Lord Audley.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Heras my Escape out of Sheriffe <hi>VVood<g ref="char:EOLhyphen"/>cocks</hi> house in <hi>Dublin,</hi> where I was neere twenty weeks a Prisoner, is likely to oc<g ref="char:EOLhyphen"/>casion various discourses &amp; conjectures, I have thought fit, by advice of my friends, to re<g ref="char:EOLhyphen"/>monstrate the truth of my case.</p>
+            <p>After having, with the rest of the Peerage of <hi>England</hi> for the space of neere a yeare, served his Majestie there. First, in his great Councell at <hi>Yorke,</hi> and then in the Parliament: but still under the awe and terrour, either of the Scotish Army at <hi>Newcastle,</hi> or the rude Rabble at <hi>London:</hi> at length
+<pb n="8" facs="tcp:197153:4"/>many of the Lords (as well wearied with that ex<g ref="char:EOLhyphen"/>treme slavery, as unwilling to be any longer eye-witnesses of the affronts dayly multiplied on the King and Queene, and other intollerable inso<g ref="char:EOLhyphen"/>lencies tending to the destruction of Monarchy, and establishing of Popular Government) retired themselves to their severall houses: And I with his Majesties leave, approved by the Lords of Parlia<g ref="char:EOLhyphen"/>ment, about the feast of <hi>S. Michael the Archangel</hi> 1641, came into <hi>Ireland.</hi>
+            </p>
+            <p>Where shortly after appeared the sparkes of the ensuing warre, that now by fire and sword doth rage throughout this kingdome. Vpon the first discovery whereof I with all possible speed repai<g ref="char:EOLhyphen"/>red to <hi>Dublin,</hi> and there not onely offered my ser<g ref="char:EOLhyphen"/>vice, but sued to the State for imployment for the suppressing of that Commotion. But it was refu<g ref="char:EOLhyphen"/>sed: answer being given me by one of the Iustices and others of the Councell, <hi>That the Character I bare of Papist made me uncapable of Trust, nay even of Armes to defend my own House from Robbers.</hi>
+            </p>
+            <p>At this time the County of <hi>Kildare</hi> (where Ire<g ref="char:EOLhyphen"/>sided) was quiet, &amp; held so till about mid Novem<g ref="char:EOLhyphen"/>ber. But now the tide of Confusion began to over<g ref="char:EOLhyphen"/>flow those banks also, which occasioned my second journey to the Iustices and Councell; where after
+<pb n="9" facs="tcp:197153:4"/>having made a faithfull narration of the state of that County, I became an humble suitor, that a Troope of Horse might be presently sent downe, averring that a small force would then doe that, which the moneth following might be worke for an Army. But the effect of this journey was only their Lordships Thanks, with an unanimous li<g ref="char:EOLhyphen"/>cence from the whole Councell. <hi>That untill they were able to relieue me, I should make faire weather, and preserue my selfe and mine by the respect they knew the Countrey bare me.</hi> But this helped me little. For shortly after, most of the chiefe of that County declared themselves: So that the rest of the winter, I was enforced to stand on my own guard, with watch and ward, both day and night, keeping my Brother <hi>M. Maruin Touchet,</hi> or some other al<g ref="char:EOLhyphen"/>wayes at <hi>Dublin,</hi> from time to time, expecting the commands of the State.</p>
+            <p>The winter now past, and faire weather coming on, about Easter the <hi>English</hi> Army (commanded by the Lieutenant Generall now <hi>Marquisse of Or<g ref="char:EOLhyphen"/>mond</hi>) in it's march to <hi>Leix,</hi> lodged some foure miles from my house, whither that night, by the respect of the Lieutenant Generall, was sent a safe<g ref="char:EOLhyphen"/>guard. And in thankfulnes, the Dutches of <hi>Buckin<g ref="char:EOLhyphen"/>gham,</hi> the Earle of <hi>Antrim</hi> and my selfe went the
+<pb n="10" facs="tcp:197153:5"/>next morning to salute his Lordship and his Ar<g ref="char:EOLhyphen"/>my: where we were so received, as stood well with the Honour of that Great Lord and Noble Com<g ref="char:EOLhyphen"/>mander.</p>
+            <p>After some dayes, his Lordship, having now re<g ref="char:EOLhyphen"/>lieved the places in distresse, and finished his De<g ref="char:EOLhyphen"/>signe, in his returne, and in sight of my house, though three miles from it, was the Encounter betwixt the <hi>English</hi> Army and the <hi>Irish,</hi> common<g ref="char:EOLhyphen"/>ly called the <hi>Battle of Kilrush.</hi> Whither, because I in <hi>Cuerpo,</hi> with my three or foure men, without Gunne or Powder, did not come, and being to passe through thousands of the <hi>Irish,</hi> I am said by the Malicious <hi>to have discountenanced the Kings Army.</hi>
+            </p>
+            <p>The evening after Victory, his Lordships march being neere my house, he was pleased with some of his chiefe Commanders to refresh them<g ref="char:EOLhyphen"/>selves there. And in the night his Lordship wan<g ref="char:EOLhyphen"/>ting a guide to conduct him and his Army some foure miles to their Quarters, I would trust none with that charge but my selfe.</p>
+            <p>Notwithstanding this my respect, it must bee given out, <hi>That so great an entertainment was never intended for the Lieutenant Generall and his followers, but rather for the Lord Viscount Mountgaret, and the
+<pb n="11" facs="tcp:197153:5"/>rest of the Rebells.</hi> To this point divers witnesses are examined against me, though God knowes, I ex<g ref="char:EOLhyphen"/>pected not either of their coming thither.</p>
+            <p>By these misinterpretations of my Actions, I thought I must no longer sleepe, doubting that my quiet living in the Countrey, drew envy on my person. So that I resolved to put my selfe into the Fashion, that is, to leave my house to be burnt, my stock of all sorts (being of great valew) to be a prey to whosoever would take them, and to looke at nothing, but to save my selfe and people, with some choice goods.</p>
+            <p>To this purpose, I presently resolved to move the State at <hi>Dublin,</hi> that I might have licence to goe for <hi>England,</hi> it being the custome of this kingdome not to depart without leave. But, as I was dispatching the messenger, a letter un<g ref="char:EOLhyphen"/>expected fell into my hands, delivered me by one of my servants, but the bearer never came to my presence. I opened it, never asking or consi<g ref="char:EOLhyphen"/>dering from whom it might come. I found it sub<g ref="char:EOLhyphen"/>scribed by the Viscounts <hi>Gormanston</hi> &amp; <hi>Nettervill</hi> and the Lord of <hi>Slane.</hi> It was to this effect. <hi>That in obedience to his Majesties Proclamation, they and the other united Lords and Gentlemen, had laid downe Armes, To intimate which to the State, they had sent
+<pb n="12" facs="tcp:197153:6"/>one Lieutenant Colonell</hi> Reade, <hi>from whom they had not heard: And that neuerthelesse daily their owne, and their Tenants houses were burnt, their goods taken and people killed. They desired that I would mediate with the State for a Cessation of Armes, and that a place might be ap<g ref="char:EOLhyphen"/>pointed, where they and their Confederates might meet to draw up their Grieuances, and so haue free accesse, by way of Pitition, to present them to his Majestie.</hi>
+            </p>
+            <p>With this letter I presently sent another from my selfe to the State, wherein I seemed to wish some good returne might be made; but it happe<g ref="char:EOLhyphen"/>ned otherwise. For answer to their Lordships they would make none at all, alleaging, <hi>they were Re<g ref="char:EOLhyphen"/>bells and Traitors.</hi> And after many frivolous excep<g ref="char:EOLhyphen"/>tions taken to my letter, as one, <hi>That I did not also call them Rebells and Traitours,</hi> they admonished me to have nothing to doe with them, and in stead of licencing me to goe for <hi>England, They commanded I should not depart the kingdome without leave.</hi>
+            </p>
+            <p>All this while, from the first opening the wayes from <hi>Dublin</hi> to my house, I was frequently at the <hi>English</hi> Garrisons, &amp; had alwayes with me, either Troopes or Troopers of the <hi>English</hi> Army.</p>
+            <p>And now finding my unhappinesse, that how candid or sincere soever my Actions or Meaning was, I must still be mistaken, I packed up all I could conveniently carry, and resolved presently
+<pb n="13" facs="tcp:197153:6"/>to goe to <hi>Dublin,</hi> where I would make my aboad, till I had leave to passe for <hi>England.</hi> But some few dayes before my intended departure, newes is brought me, <hi>That by chance some of my friends at Dublin had discovered, that I stood indicted of High Treason:</hi> for it was done with great secrecy.</p>
+            <p>Amazed at this sad and unexpected newes, the next morning by five of the clocke, I post for <hi>Du<g ref="char:EOLhyphen"/>blin,</hi> giving order that al my best furniture &amp; linnē should be presently sent after, which accordingly was done. My stock of all sorts (as the Marquis of <hi>Ormond</hi> and <hi>Sir Arthur Loftus</hi> well know) I bestowed for the use of the <hi>English</hi> Army, &amp; desired nothing in recempence, but only that my people, with the remainder of my goods, might be brought salfe to <hi>Dublin,</hi> where I was now gone to purge my selfe.</p>
+            <p>But I continued there for many dayes without any notice taken of me, though I presently ac<g ref="char:EOLhyphen"/>quainted the <hi>Lords Iustices</hi> and many of the Coun<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll of my arrivall, and the cause. So that it was then thought, and may yet be believed, that they hoped by that Indictment, rather to have frighted me, as they had done thousands of others, into Rebellion, as they tearme it, then that they had any good evidence against me.</p>
+            <p>But I not willing to lye long under that title of infamy, went my selfe to the Councell, tooke no<g ref="char:EOLhyphen"/>tice
+<pb n="14" facs="tcp:197153:7"/>of my Charge, and desired that with all conve<g ref="char:EOLhyphen"/>nient speed, I might be brought to my Purgation. Hitherto it is evident I thought not of an Escape.</p>
+            <p>The Councell, after some debate, confined me to Master <hi>VVoodcocks</hi> house, one of the <hi>Sheriffes</hi> of <hi>Dublin.</hi> From whence after a day or two, I sent a Petition to the State, and it was to this effect, <hi>Laying downe by many particulars the improbabilitie of my associating my selfe in this warre, as that I was a Peere of</hi> England, <hi>that the maine of my estate lay there, and the little interest or power I had in this kinghome, that my accusers were of base condition, and would have beene taken off for a small summe of money, and that two of them, namely</hi> Ennis <hi>and his sonne ran away from the English Colours with their Armes, and afterwards serued against them at the battle of</hi> Kilrush, <hi>and the third</hi> William Collis <hi>had beene sadler to some of the Irish Army</hi> (whereby it is most evident, that beside what other reward these men might bee promised they were made sure of their lives) <hi>that the Iurie, who found this indictment on the evidence of these men, were persons of the same nature and condition, as parti<g ref="char:EOLhyphen"/>cularly one</hi> Francis Dade, <hi>who had associated himselfe with the</hi> Irish, <hi>changed his Religion, &amp; went to Masse.</hi> This man having forfeyted his life according to their rule, they make a leading Iury-man, and I be<g ref="char:EOLhyphen"/>leeve
+<pb n="15" facs="tcp:197153:7"/>a witnesse, he not daring to deny what they would have him doe or say. <hi>In fine that there was not one gentleman, or scarce a landed man amongst them. For these reasons, and for that it had beene frequently granted to others in the like case, I desired to be bayled.</hi>
+            </p>
+            <p>Answer was returned to this modest Petition, <hi>that the witnesses were no Rebels, but Espies; So that, what I had said, was no impeachment to their testimo<g ref="char:EOLhyphen"/>nies, and in generall they thought not fit to grant the Petition.</hi>
+            </p>
+            <p>Well, though I thought that aswell this answer, as the whole proceedings somewhat harsh, yet I did not much weigh it: For shortly after was to follow <hi>Trinity Terme.</hi> At which time I assured my selfe, that by my innocencie I should bee set free both from prison and blame.</p>
+            <p>Oh, but here I was much deceived. For this <hi>Terme</hi> must be otherwise imployed. For though through hanging, racking, and barbarous treaty of such as submitted on the Kings Proclamation, thousands had declared themselves for the Countrie, which were in all Post-hast going to <hi>Dublin</hi> to put them<g ref="char:EOLhyphen"/>selves under the protection of the State, yet there were as many more that stood at a gaze, as most unwilling to runne the common course, and yet loath to bee handled after this rude manner.
+<pb n="16" facs="tcp:197153:8"/>Against these must Bils of indictment presently be drawne, and Grand-jury-men picked for the pur<g ref="char:EOLhyphen"/>pose. And to strike the <hi>Businesse</hi> dead in the eye, fearing these men were not wicked enough, the Iudges of the Kings Chiefe Place on the Bench delivered, as part of their charge. <hi>That they must not be scrupulous: for that common Fame was now Euidence enough to find a Bill of Indictment.</hi>
+            </p>
+            <p>Notwithstanding this great and holy imploy<g ref="char:EOLhyphen"/>ment of these Reverend Fathers of the Law, they must yet doe something more to shew their <hi>Gran<g ref="char:EOLhyphen"/>deza.</hi> That was, I by a <hi>Habeas corpus</hi> must bee brought into the Court before them, where after I had been sufficiently lookt at by their Lordships and the people, I was remaunded back to the place whence I came, without any thing said unto me.</p>
+            <p>This <hi>Terme</hi> finished, and the Iury-men having well acted their parts, some of the Iudges are dis<g ref="char:EOLhyphen"/>patched for <hi>England,</hi> to shew there, that the Pen in <hi>Ireland</hi> had beene as active as the Sword, and that now for the destruction of, at least, al the prisoners, there wanted little, but that old saying, <hi>Hang-man doe your Office.</hi>
+            </p>
+            <p>It is no great wonder, that now, how innocent soever I was, my head should begin to ake. Yet a Session of Parliament being shortly to follow, I
+<pb n="17" facs="tcp:197153:8"/>conceived good hope of fayre play there: But when I saw the composure of this great Tribunall: That the upper house consisted of no more then five or six temporall Lords, and some Bishops, The house of Commons (aunciently the representative body of the kingdom) for the major part of Clerks and Clerks men, few having any land, &amp; those ille<g ref="char:EOLhyphen"/>gally chosen, as by Muskatiers, and a rabble of such like Free-holders: I began to thinke, that such a kind of Parliament might erre, &amp; feared nothing more then a Triall there. And surely I had rea<g ref="char:EOLhyphen"/>son, when nothing would serve their turnes, but a Cessation of <hi>Poynings Act</hi> during that Session. By which they were freed from transmitting their Bils into <hi>England,</hi> and so might make Lawes, as in their discretions they thought fit; and I have too great cause to beleeve, they would have made one for attaynting me, and the rest of the prisoners.</p>
+            <p>All this while no meanes is untryed to make matter against me. For as before witnesses were re<g ref="char:EOLhyphen"/>warded, by giving them their lives being forfeyted: So now to others rough language must bee used. One <hi>Iohn Bird</hi> being examined before <hi>Sir Robert Meredith</hi> concerning me, &amp; not answering as was expected, the said <hi>Sir Robert</hi> demanded his <hi>Religion:</hi> the honest man replyed a <hi>Protestant.</hi> Ah quoth he,
+<pb n="18" facs="tcp:197153:9"/>
+               <hi>by thy answers thou shouldest have a little Pope in thy belly.</hi>
+            </p>
+            <p>And now, having by many such indirect wayes, furnished themselves with plenty of evidence, they begin to affront me, by disarming my men, by pul<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng one <hi>Master Henry Slingsby</hi> out of my Chamber, comming by accident with a gentlewo<g ref="char:EOLhyphen"/>man to visit me, saying. <hi>He was a Romish Popish Ie<g ref="char:EOLhyphen"/>suite,</hi> it being well knowne, hee was no such man: and so carried him to prison.</p>
+            <p>And lastly, the <hi>Sherisses</hi> house is now thought too weake for so great a traytor. Hereupon a writ is issued to the <hi>Sheriffe,</hi> to bring me with a strong guard to the <hi>Innes,</hi> where the Iudges were, being neere halfe a mile: from whence I must be sent to the <hi>Castle,</hi> a loathsome prison of it selfe, but the inhumanitie of the <hi>Gaoler,</hi> by name <hi>Manwaring,</hi> af<g ref="char:EOLhyphen"/>ter Hell, makes it the second place for miserie and affliction.</p>
+            <p>Well, I thought it now high time, as the Iudges had summoned my body, I should recollect my wits. And as I stood considering my case, a passage in the Earle of <hi>Straffords</hi> tryall occurred to my memory. He stood much upon his justification, and demanded the benefit of the law, but <hi>Master S<seg rend="sup">t</seg> Iohas</hi> replied, <hi>that to Hares, Deere, &amp; other innocent
+<pb n="19" facs="tcp:197153:9"/>creatures, law was afforded, but to</hi> Woolves, Foxes, <hi>all other such like vermine, any meanes might be sought for their destruction.</hi> Now I finding my selfe hither<g ref="char:EOLhyphen"/>to dealt with as one of these, although I waved the malice of the <hi>VVoolfe,</hi> I made some little use of the <hi>Foxes</hi> craft, and for that present fayned my selfe si<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke, and on information thereof given, my attendance on the Iudges was spared till the mor<g ref="char:EOLhyphen"/>row.</p>
+            <p>Having thus gayned time, I well pondered all which hath beene before related, together with, If I were a traytor, to whom it was? The King him<g ref="char:EOLhyphen"/>selfe I found pursued both with <hi>Pen</hi> and <hi>Sword,</hi> by an Army of his owne people; whosoever followed or adhered unto him declared Rebels and Tray<g ref="char:EOLhyphen"/>tors; The <hi>Queene</hi> his Royall Consort, flying from place to place, like an exiled or banished woman; by <hi>M<seg rend="sup">r</seg> Martins</hi> and divers the like speeches in the house of Commons in <hi>England,</hi> that his <hi>Sacred Ma<g ref="char:EOLhyphen"/>jesty</hi> was not fit to beare the Office of a <hi>King,</hi> and that he might be deposed, and much more to this effect, as may bee seene in divers printed papers; which language in that place going unpunished, I could not conceive that the authors of such inso<g ref="char:EOLhyphen"/>lencies, or the swaying malignant part of the State here, who from time to time tooke their directi<g ref="char:EOLhyphen"/>ons
+<pb n="20" facs="tcp:197153:10"/>from them, could adjudge any thing against his Majestie treason.</p>
+            <p>O, but I remembred that in a Book of the <hi>Kings</hi> relating truly all the passages from the first of this Parliament to the 12. of <hi>August,</hi> he complaines of two great officers lately set up in <hi>Englād,</hi> who usur<g ref="char:EOLhyphen"/>ped the Regall power, the one is a <hi>Generall</hi> for the <hi>Land,</hi> the other <hi>Admirall</hi> of the <hi>Sea.</hi> But to these I never ought allegeance, and so consequently could be no traytor to them.</p>
+            <p>I then began to consider the condition of this kingdome, as that the state did chiefly consist of men of meane birth &amp; quality, That most of them steered by the influence &amp; power of those who were in Armes against the <hi>King,</hi> That they had by cruell massacring, hanging, &amp; torturing been the slaugh<g ref="char:EOLhyphen"/>ter of thousands innocent men, women, &amp; childrē, better subjects then themselves, That they by all their actions shew, they looke at nothing, but the extirpating of this <hi>Nation,</hi> the destruction of <hi>Mo<g ref="char:EOLhyphen"/>narchy,</hi> &amp; by the utter suppressing of the ancient <hi>Catholicke Religion</hi> to settle &amp; establish <hi>Puritanisme.</hi> To these I could be no traytor.</p>
+            <p>Neere about the time of this my <hi>exigency,</hi> I was much cleared by a visit I received from <hi>Sr Arthur Loftus,</hi> son to <hi>Sr Adam Loftus,</hi> a leading instrument
+<pb n="21" facs="tcp:197153:10"/>in all wicked designes against his Majesty, telling me (as joyfull newes) that the Parliament had late<g ref="char:EOLhyphen"/>ly given the <hi>King</hi> a totall overthrow, &amp; that hee was now reduced to so low a condition, that by the next we should certainly heare the <hi>King</hi> had sub<g ref="char:EOLhyphen"/>mitted to the Parliament, and till that were done, things would never doe well.</p>
+            <p>Here I tooke my resolution, with Gods helpe, not tamely to dye butchered, &amp; so to have my in<g ref="char:EOLhyphen"/>nocencie smothered, but to preserve my life (I ho<g ref="char:EOLhyphen"/>ped) more to the honor of God and service of <hi>King Charles,</hi> and that by escape.</p>
+            <p>Now forasmuch as the most immediate way in<g ref="char:EOLhyphen"/>to <hi>England</hi> was blocked up, I resolved a tryall to gaine a passage by <hi>VVexford</hi> into <hi>France,</hi> &amp; from thence into <hi>England,</hi> conceiving I should have bin forthwith able to have put my selfe into a summe of money, to have borne my charges, by the sale of such plate, goods, &amp; stock, as I had in the country. But I was not many houres out of <hi>Dublin</hi> before I was pursued by some troopes of Horse, <hi>Sr Arthur Loftus</hi> leading them: who that night came to my house in the county of <hi>Kildare,</hi> &amp; missing me, killed some of my servants, hurt divers, &amp; after having ri<g ref="char:EOLhyphen"/>fled the house, they set it, and all about it on fire. And besides all my servants prisoners, they carry<g ref="char:EOLhyphen"/>ed
+<pb n="22" facs="tcp:197153:11"/>away more then the worth of five thousand pound in plate and other goods.</p>
+            <p>Here my wings being clipt, all that I had to car<g ref="char:EOLhyphen"/>ry me abroad or keepe me at home, being thus ta<g ref="char:EOLhyphen"/>ken from me, together with the distractions in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> that I could make little or no accompt of my estate there: In this streight I thought fit to apply myselfe to the great Assembly or the king<g ref="char:EOLhyphen"/>dome of <hi>Ireland.</hi> Who having given me full satis<g ref="char:EOLhyphen"/>faction for their assembling, &amp; that their taking Armes was but naturall, as to defend themselves &amp; theirs from those aforesaid barbarous cruelties: &amp; that they desired (as may appeare by many their Instruments in writing) nothing but the free exer<g ref="char:EOLhyphen"/>cise of their ancient <hi>Religion,</hi> then just <hi>Laberties,</hi> &amp; the preservation of this <hi>Crowne</hi> unto his Majestie: I having some interest both in Honour &amp; Estate in the countrie, associated my selfe with them, &amp; they after some time that I was amongst them (more out of Charity then merit in me) offered mee the Ge<g ref="char:EOLhyphen"/>neralship of their Horse of the Province of <hi>Lein<g ref="char:EOLhyphen"/>ster,</hi> which I thankfully accepted: And now in my Colours beare this Device, <hi>Sagittae tuae acutae in cor<g ref="char:EOLhyphen"/>da inimicorum Regis.</hi> For the executing whereof, I desire GOD no longer to prosper my actions, then my Heart, Hand, Sword, and prayers shall
+<pb n="23" facs="tcp:197153:11"/>be readily and cheerefully imployed therein.</p>
+            <p>
+               <hi>Having, with much trouble to the Reader, endeavo<g ref="char:EOLhyphen"/>red to vindicate my selfe in this Remonstrance; I conceiue it loth proper &amp; charitable in this place to labour to ac<g ref="char:EOLhyphen"/>quit him, who I understand hath unjustly suffered for my sake, I meane</hi> Sheriffe Allen. <hi>The Protestant</hi> She<g ref="char:EOLhyphen"/>riffe Woodcocke, <hi>to whose custody onely I was com<g ref="char:EOLhyphen"/>mitted, went unpunished for my escape, as really he knew nothing thereof; But</hi> Sheriffe Allen <hi>being a Catholick, who had no charge of mee, nor acquaintance with mee other then that I often saw him, when he came to treate with his brother Sheriffe about the City-affaires. Hee poore innocent man (for so I take God to witnesse he was, as to my escape, or to any word let fall to that effect to my knowledge, or that I can guesse, is with all inhumani<g ref="char:EOLhyphen"/>ty dragged to prison, most of his goods seised upon &amp; ta<g ref="char:EOLhyphen"/>ken away, &amp; a great number of souldiers cessed upon his house, whereby, &amp; being made uncapable to receive his rents, or debts, or to follow any other way he had to gaine a living by, his VVife &amp; Children from that day forth were exposed to the charity of their friends, &amp; he endu<g ref="char:EOLhyphen"/>red imprisonment for a whole yeare in misery. How ju<g ref="char:EOLhyphen"/>stisiable or conscionable this proceeding was, I will not ar<g ref="char:EOLhyphen"/>gue, much lesse aggravate, having discharged my Con<g ref="char:EOLhyphen"/>science, the matter it selfe both to God &amp; the world cry<g ref="char:EOLhyphen"/>ing loud for Iustice.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
